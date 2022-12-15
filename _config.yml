@@ -93,13 +93,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Musqratt Project" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+description: "MusQratt is a Rust MQTT Broker built on Composite OS" # Site description and default description, also used in jekyll-seo-tag
+url: "https://amohammed6.github.io/musqratt/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/amohammed6/musqratt"
+email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -122,7 +122,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /index
 - title: Elements
   url: /elements/
 - title: Blog
@@ -131,24 +131,24 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: MusQratt
+  url: https://amohammed6.github.io/musqratt/
 
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
 
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+# social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+#   Twitter: https://twitter.com/DavidDarnes
+#   LinkedIn: https://www.linkedin.com/in/daviddarnes
+#   GitHub: https://github.com/daviddarnes
+#   link: https://darn.es
+#   RSS: /feed.xml
 
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+# sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+#   Twitter: "#0d94e7"
+#   facebook: "#3B5998"
+#   Email: true
 
 # Load custom fonts from fonts.google.com etc
 #
