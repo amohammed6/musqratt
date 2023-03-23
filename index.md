@@ -12,4 +12,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 * Project Description: [Product and Technical Description]([/docs/Writing%203.pdf](docs/Writing%203.pdf))
 * Alpha Demo Presentation: 
 
-https://user-images.githubusercontent.com/62487935/207932910-9eb158df-0f29-4287-9059-2d410260c24b.mp4
+### Alpha Demo Progress
+<video src="https://user-images.githubusercontent.com/62487935/207932910-9eb158df-0f29-4287-9059-2d410260c24b.mp4" controls="controls" style="max-width: 730px;">
+</video>
