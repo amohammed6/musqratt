@@ -6,10 +6,10 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-# MusQraTT: An MQTT-SN Broker on Composite OS
+# MusQraTT Technology
 
-### About Section
+## Composite OS
 
+## Rust Programming Language
 
-### Features
-
+## MQTT-SN Rust Crate

@@ -6,9 +6,9 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
-## Project Documents
+# MusQraTT: An MQTT-SN Broker on Composite OS
 
-* [Project Design Document](/docs/ProjectDesignDocument.pdf)
+## Project Documents
 
 * Elevator Pitch: [Executive Summary](https://github.com/amohammed6/musqratt/files/10239510/Elevator.Pitch.Executive.Summary-2.pdf)
 * Project Description: [Product and Technical Description]([/docs/Writing%203.pdf](docs/Writing%203.pdf))

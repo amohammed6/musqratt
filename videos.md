@@ -8,8 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 # MusQraTT: An MQTT-SN Broker on Composite OS
 
-### About Section
 
+### Promotional Video
 
-### Features
-
+### Project Description Video
