@@ -1,12 +1,10 @@
----
-title: MusQraTT
+--- 
+title: MusQraTT Team
 feature_text: |
   ## MusQraTT
   An MQTT Broker in Rust on Composite OS
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-
-# MusQraTT Team
 
 ### Aisha Mohammed
 <div class="row">

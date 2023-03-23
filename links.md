@@ -1,5 +1,5 @@
 ---
-title: MusQraTT
+title: MusQraTT Links
 feature_text: |
   ## MusQraTT
   An MQTT Broker in Rust on Composite OS
