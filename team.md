@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   <div class="column" style="float: left; width: 50%;">
     <!-- Picture -->
     <p>
-    <img src="assets/logos/aisha.jpeg"
+    <img src="assets/logos/aisha.png"
      alt="Aisha's image"
      style="float: left; margin-right: 10px; width=128; height=128"/>
      </p>
