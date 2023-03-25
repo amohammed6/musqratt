@@ -1,12 +1,10 @@
 ---
-title: 
+title: About Section
 feature_text: |
   ## MusQraTT
   An MQTT-SN Broker in Rust on Composite OS
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-
-### About Section
 
 <p>
   MQTT-SN is a publisher-subscriber communication protocol designed primarily for Internet of Things (IoT) and cyber-physical systems. These can vary from smart home hubs and smart refrigerators to smart vehicles in smart cities, sensor networks, and even has some aerospace implications.
