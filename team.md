@@ -10,9 +10,11 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 <div class="row">
   <div class="column" style="float: left; width: 50%;">
     <!-- Picture -->
+    <p>
     <img src="assets/logos/aisha.jpeg"
      alt="Aisha's image"
-     style="float: left; margin-right: 10px; width=100px; height=100px"/>
+     style="float: left; margin-right: 10px; width=128; height=128"/>
+     </p>
   </div>
   <div class="column" style="float: left; width: 50%;">
     <!-- Description -->
