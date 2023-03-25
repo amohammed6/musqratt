@@ -10,11 +10,15 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 <div class="row">
   <div class="column" style="float: left; width: 50%;">
     <!-- Picture -->
-    <em>picture</em>
+    <img src="/assets/logos/aisha.jpeg"
+     alt="Aisha's image"
+     style="float: left; margin-right: 10px;" />
   </div>
   <div class="column" style="float: left; width: 50%;">
     <!-- Description -->
-    <strong>Description</strong>
+    <strong>Description</strong><br>
+    <p>Aisha Mohammed is a graduating senior. For MusQraTT, Aisha developed the Rust MQTT-SN Broker. New to the language, there was many difficulties she had to work through to understand the nuances of the language, as well as explore how to take advantage of the benefits the language provides. She has worked in the systems lab for a year and a half, and will be working at MITRE as a Software Engineer.
+    </p>
   </div>
 </div>
 
