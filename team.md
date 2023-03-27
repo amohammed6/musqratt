@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   <div class="column" style="float: left; width: 50%;">
     <!-- Picture -->
     <p>
-    <img src = 'https://github.com/amohammed6/musqratt/blob/main/assets/logos/aisha.png' alt="Aisha's image">
+    <img src = 'assets/logos/aisha.png' alt="Aisha's image">
     <!-- ![image description](/assets/logos/aisha.png) -->
     </p>
   </div>
