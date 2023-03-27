@@ -19,7 +19,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 </p>
 
 <p>
-  Our project is <strong>MusQraTT</strong>, a MQTT-SN broker built in Rust on CompositeOS. By building the Broker in Rust, we ensure the guaranteed memory safety from the language, and Rust has a reduced runtime. CompositeOS, a research operating system built at GW that is optimized for low latency systems, allows MusQraTT to have competative transmission latencies.
+  Our project is <strong>MusQraTT</strong>, is an MQTT-SN broker built in Rust on CompositeOS. By building the Broker in Rust, we ensure the guaranteed memory safety from the language, and Rust has a reduced runtime. CompositeOS, a research operating system built at GW that is optimized for low latency systems, allows MusQraTT to have competative transmission latencies.
 </p>
 
 ### Features
