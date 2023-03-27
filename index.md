@@ -25,6 +25,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ### Features
 
 * <em>performance metrics</em>
-* Support for UDP clients
 * Competative Transmission Latencies
 * Lightweight runtime optimized for realtime systems at the Edge
+* Support for UDP clients
