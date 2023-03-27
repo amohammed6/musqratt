@@ -7,6 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 ## Composite OS
+<p>
+MusQraTT is built on the Composite kernel, a microkernel developed for secure and high-performance systems. Using Composite allows us to make key system optimizations that enable MusQraTT to be highly performant, and take advantage of years of research into OS design. Composite is being developed at the GW Embedded and Operating Systems Lab.
+</p>
 
 ## Rust Programming Language
 
