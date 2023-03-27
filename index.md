@@ -15,16 +15,16 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 </p>
 
 <p>
-  The current industry standard for MQTT/MQTT-SN is Mosquitto. Some larger technology companies also have their own implementations for their smart devices, such as Amazon AWS and Microsoft Azure. These are provide support for C, Java, and Javascript programming languages. However, those runtimes are too memory intensive and not suitable for real-time systems. In addition, the future of these IoT and cyber-physical systems is moving towards the Edge of the network; Mosquitto, Microsoft, and Amazon do not provide Edge support <em>and</em> have higher transmission latencies. 
+  The current industry standard for MQTT is Mosquitto and its companion MQTT-SN gateway Paho. Some larger technology companies have also developed their own implementations for their smart devices, such as Amazon AWS and Microsoft Azure, which run on their cloud infrastructure. However, those systems are too memory intensive or have too much network or transmission latency and not suitable for real-time systems. In addition, the future of these IoT and cyber-physical systems is moving towards the Edge of the network; Mosquitto, Microsoft, and Amazon do not provide suitable support for realtime systems at the Edge <em>and</em> have higher transmission latencies. 
 </p>
 
 <p>
-  Our project is <strong>MusQraTT</strong>, a MQTT-SN broker built in Rust ported to CompositeOS. By building the Broker in Rust, we ensure the guaranteed memory safety from the language, and Rust has a reduced runtime. CompositeOS, a research operating system built at GW, provides segmented memory and resources, allowing for our broker to handle more clients.
+  Our project is <strong>MusQraTT</strong>, a MQTT-SN broker built in Rust on CompositeOS. By building the Broker in Rust, we ensure the guaranteed memory safety from the language, and Rust has a reduced runtime. CompositeOS, a research operating system built at GW that is optimized for low latency systems, allows MusQraTT to have competative transmission latencies.
 </p>
 
 ### Features
 
 * <em>performance metrics</em>
 * Support for UDP clients
-* Increases speed by handling client requests with threading
-* Can handle over 65k clients
+* Competative Transmission Latencies
+* Lightweight runtime optimized for realtime systems at the Edge
