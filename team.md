@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   <div class="column" style="float: left; width: 50%;">
     <!-- Picture -->
     <p>
-    <img src = 'assets/logos/aisha.png' alt="Aisha's image">
+    <img src = 'https://amohammed6.github.io/musqratt/assets/logos/aisha.png' alt="Aisha's image">
     </p>
   </div>
   <div class="column" style="float: left; width: 50%;">
@@ -25,7 +25,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ### Evan Stella
 <div class="row">
   <div class="column" style="float: left; width: 50%;">
-    <img src = '/assets/logos/evan.jpg' alt="Evan's image" width="250">
+    <img src = 'https://amohammed6.github.io/musqratt/assets/logos/evan.jpg' alt="Evan's image" width="250">
   </div>
   <div class="column" style="float: left; width: 50%;">
     <!-- Description -->
