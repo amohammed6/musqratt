@@ -26,8 +26,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ### Evan Stella
 <div class="row">
   <div class="column" style="float: left; width: 50%;">
-    <!-- Picture -->
-    <em>picture</em>
+    <img src = '/assets/logos/evan.jpg' alt="Evan's image">
   </div>
   <div class="column" style="float: left; width: 50%;">
     <!-- Description -->
