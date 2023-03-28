@@ -30,7 +30,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
   <div class="column" style="float: left; width: 50%;">
     <!-- Description -->
     <strong>Description</strong>
-    <p>Evan Stella is a graduating senior in CS at GW. Evan developed CompositeOS's support for MusQraTT, including creating a runtime environment for Rust on Composite, adding Rust support for Composite's build system, and optimizing Composite's network drivers for MusQraTT. Evan has worked on CompositeOS for over a year and a half with the GW Systems lab and is excited with the future of the operating system. He will be working as a Research Engineer at Lockheed Martin's Advanced Technology Laboratories after graduation.
+    <p>Evan Stella is a graduating senior in CS at GW. Evan developed CompositeOS's support for MusQraTT, including creating a runtime environment for Rust on Composite, adding Rust support for Composite's build system, and optimizing Composite's network drivers for MusQraTT. Evan has worked on CompositeOS for over a year and a half with the GW Systems lab and is excited for the future of the operating system. He will be working as a Research Engineer at Lockheed Martin's Advanced Technology Laboratories after graduation.
     </p>
   </div>
 </div>
