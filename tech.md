@@ -24,5 +24,5 @@ Using Rust programming languages has three main benefits that assist our Broker:
 ## MQTT-SN Rust Crate
 
 <p>
-We utilized a Rust Crate, known as ["mqtt-sn"](https://crates.io/crates/mqtt-sn). This crate provides the support and requirements for an MQTT-SN system. It included the packet specifications (packet id, topic subcription, etc) as well as the functionality for encoding, decoding, and parsing the packet. This made it possible for the packets, encoded in bytes, to be sent into a UDP socket.
+We utilized a Rust Crate, known as <a href="https://crates.io/crates/mqtt-sn">"mqtt-sn"</a>. This crate provides the support and requirements for an MQTT-SN system. It included the packet specifications (packet id, topic subcription, etc) as well as the functionality for encoding, decoding, and parsing the packet. This made it possible for the packets, encoded in bytes, to be sent into a UDP socket.
 </p>
