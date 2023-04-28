@@ -11,7 +11,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 </p>
 
 <p>
-  Today, computational workloads for these cyber-physical systems and IoT devices are becoming increasingly sensitive to latency, a time measurement of delay for network communications. For mission critical applications, this could be a difference in avoiding a collision for autonomous vehicles or precise motion control for industrial equipment. 
+  Today, computational workloads for these cyber-physical systems and IoT devices are becoming increasingly sensitive to latency, a time measurement of delay for network communications. For mission critical applications, this could be a difference in avoiding a collision for autonomous vehicles or precise motion control for industrial equipment. We are moving towards a future that is more interconnected and reliant on near-instananeous communication.
 </p>
 
 <p>
@@ -19,12 +19,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 </p>
 
 <p>
-  Our project is <strong>MusQraTT</strong>, an MQTT-SN broker built in Rust on CompositeOS. By building the Broker in Rust, we guarantee memory safety and performant code from the language. CompositeOS, a research operating system built at GW allows MusQraTT to have competitive transmission latencies.
+  Our project is <strong>MusQraTT</strong>, an MQTT-SN broker built in Rust on CompositeOS. By building the Broker in Rust, we guarantee memory safety and performant code from the language. CompositeOS, a research operating system built at GW allows MusQraTT to have competitive transmission latencies. We have removed any added transmission and processing latencies from industry standard systems to provide an optimal solution for real-time and latency sensitive applications.
 </p>
 
 ### Features
 
-* <em>performance metrics</em>
-* Competitive Transmission Latencies
-* Lightweight runtime optimized for realtime systems at the Edge
-* Support for UDP clients
+* Performs exponentially better than industry standard, Musquitto
+* Competitive transmission latencies
+* Lightweight runtime optimized for real-time systems at the Edge
+* Support for MQTT-SN specific clients
