@@ -7,9 +7,9 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
 ### Final Presentation
-<iframe src=
-'https://github.com/amohammed6/musqratt/blob/main/docs/FinalPresentation.pdf' width="400" height="200">
-</iframe>
+<embed src=
+"https://github.com/amohammed6/musqratt/blob/main/docs/FinalPresentation.pdf" width="400" height="200" type="application/pdf"/>
+<!-- </iframe> -->
 
 ### Other Links
 * Elevator Pitch: [Executive Summary](https://github.com/amohammed6/musqratt/files/10239510/Elevator.Pitch.Executive.Summary-2.pdf)
