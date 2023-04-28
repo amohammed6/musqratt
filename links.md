@@ -8,7 +8,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ### Final Presentation
 <embed src=
-"https://github.com/amohammed6/musqratt/blob/main/docs/FinalPresentation.pdf" width="400" height="200" type="application/pdf"/>
+"https://github.com/amohammed6/musqratt/blob/c57cd09e21a4d99213caa695b9910d317bdb855c/docs/FinalPresentation.pdf" width="600" height="300" />
 <!-- </iframe> -->
 
 ### Other Links
