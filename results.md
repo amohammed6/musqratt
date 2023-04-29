@@ -21,9 +21,11 @@ We've created a mock scenario like this with two vehicles entering an intersecti
 </p>
 
 #### Mosquitto + Gateway 
+
 <video src="https://github.com/amohammed6/musqratt/raw/main/docs/mosquitto.mov" controls="controls" style="max-width: 400px;">
 </video>
 
 #### MusQraTT
+
 <video src="https://github.com/amohammed6/musqratt/raw/main/docs/musqratt.mov" controls="controls" style="max-width: 400px;">
 </video>
