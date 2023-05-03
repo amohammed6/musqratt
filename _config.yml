@@ -123,8 +123,6 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: https://amohammed6.github.io/musqratt/
-- title: Team
-  url: https://amohammed6.github.io/musqratt/team
 - title: Technology
   url: https://amohammed6.github.io/musqratt/tech
 - title: Videos
@@ -133,6 +131,8 @@ navigation_header:
   url: https://amohammed6.github.io/musqratt/links
 - title: Results
   url: https://amohammed6.github.io/musqratt/results
+- title: Team
+  url: https://amohammed6.github.io/musqratt/team
 
 navigation_footer:
 # - title: Created by David Darnes
