@@ -12,5 +12,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 
 ### Other Links
 * [Final Presentation](https://github.com/amohammed6/musqratt/blob/main/docs/FinalPresentation.pdf)
+* [Presentation Poster](https://github.com/amohammed6/musqratt/blob/main/docs/MusQraTTPoster.pdf)
 * Elevator Pitch: [Executive Summary](https://github.com/amohammed6/musqratt/files/10239510/Elevator.Pitch.Executive.Summary-2.pdf)
-* Project Description: [Product and Technical Description]([/docs/Writing%203.pdf](docs/Writing%203.pdf))
+* Project Description: [Product and Technical Description](https://github.com/amohammed6/musqratt/blob/main/docs/Writing.3.pdf)
